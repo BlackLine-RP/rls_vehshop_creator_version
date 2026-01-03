@@ -1,1 +1,4 @@
-
+{
+  "version": "1.0.0",
+  "changelog": "UI: Fix: Phone UI (FiveM NUI) – Layout/Assets laden wieder korrekt (CSS/JS/Images) + Bottom-Navigation stabilisiert"
+}
